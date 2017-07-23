@@ -1,3 +1,22 @@
 @charset "utf-8";
 /* CSS Document */
-
+.box
+{
+	weight:1200px;
+	height:auto;
+	background:#F2EBCC;
+}
+.head
+{
+	background:#666;
+	height:400px;
+	border:2px;
+	margin:1px;
+}
+.container
+{
+	height:auto;
+	background:#0F9;
+	border:2px;
+	margin:1px;
+}
